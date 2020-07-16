@@ -2,7 +2,7 @@
 gem "jekyll", "~> 3.4"
 
 # My selected theme gem
-gem "alembic-jekyll-theme", "~> 2.2"
+gem "jekyll-theme-cayman"
 
 # Any plugins I'm using
 group :jekyll_plugins do
