@@ -20,6 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: cayman
-Field name: 
+permalink: jekyll-theme-cayman
 theme: jekyll-theme-cayman
