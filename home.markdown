@@ -5,6 +5,7 @@ Field name:
 - '1.'
 - '2.'
 - '3.'
+layout: default
 ---
 
 homepage
