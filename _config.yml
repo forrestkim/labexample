@@ -1,5 +1,4 @@
 ---
-theme: jekyll-theme-cayman
 title: lab-example
 timezone: UTC
 collections:
@@ -21,3 +20,4 @@ defaults:
     type: pages
   values:
     layout: page
+theme: jekyll-theme-cayman
