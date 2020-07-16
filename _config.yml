@@ -22,3 +22,4 @@ defaults:
     layout: page
 permalink: cayman
 Field name: 
+theme: jekyll-theme-cayman
